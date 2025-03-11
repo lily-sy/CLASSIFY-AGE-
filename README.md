@@ -1,5 +1,4 @@
-PYTHON CONTROLS USING BASIC IF-ELSE STATEMENT
-CLASSIFY-AGE-
+# PYTHON CONTROLS USING BASIC IF-ELSE STATEMENT: CLASSIFY-AGE
 Students will write a function that categorizes a person based on their age 
 
 Video link of Classifying age: 
